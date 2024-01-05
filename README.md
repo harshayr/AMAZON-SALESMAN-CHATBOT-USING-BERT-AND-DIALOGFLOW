@@ -42,7 +42,7 @@ Install required Python packages.
 Set up the backend server and link it with Dialogflow using appropriate webhooks i.e ngrok.
 Step1: First clone the repository using
 ```sh
-git clone https://github.com/harshayr/STOCK-PREDICTION.git
+git clone https://github.com/harshayr/SALESMAN-CHATBOT.git
 ```
 
 Step2: go into current working directory and move ngrok file manualy to this folder

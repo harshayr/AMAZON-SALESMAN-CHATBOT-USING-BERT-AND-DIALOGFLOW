@@ -2,5 +2,7 @@ pandas
 numpy
 beautifulsoup4
 flask
+transformers
+
 
 
