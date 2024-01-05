@@ -1,0 +1,131 @@
+Here i have provided all the neccesary intent for dialogflow make ure you create intent with the same name i have mentioned overhere
+
+## INTENT
+
+1. url
+
+Training phrases
+give amazon url for any products atleast 5 
+
+2. specs
+
+Training phrases
+show me specs
+Please list down the technical details for this product.
+What are the key features and specifications of this gadget?
+I'd like to know more about the hardware specifications.
+Can you provide detailed specs for this item?
+What are the technical specifications of this product?
+
+3. rating
+
+Training phrases
+rating
+show me rating
+what about rating of this product
+How does this product rate among users?
+Are there any reviews available for this item?
+
+4. price
+
+Training phrases
+how much is the pice
+mrp
+cost
+What's the pricing structure?
+price
+Can you provide a quote?
+How do the prices compare?
+What's the cost?
+How expensive is it?
+Can you tell me the pricing?
+What's the price range?
+How much does it cost?
+What's the current price?
+
+5. offer
+
+Training phrases
+Which bank cards have offers on this product
+I'm curious about any current offers or promotions for this item.
+What offers can I get if I purchase this product now?
+Tell me about any available promotions or deals for this item.
+Can I avail any offers or discounts on this product?
+Are there any ongoing sales or discounts for this item?
+I'm interested in any special deals or offers for this product.
+Are there any coupons or promotions I can use for this purchase?
+What promotional offers are currently available?
+Do you have any discounts or deals on this item?
+Are there any special offers available for this product?
+
+6. in-the-box
+
+Training phrases
+Before I purchase, I'd like to know what items come with it. Could you help?
+What accessories or additional items are included in the box?
+Can you describe the items that accompany the main product?
+What does the package contain?
+Could you list down what I'll receive with this product?
+What's included in the packaging?
+I'm curious about the items inside the box. Could you provide details?
+What comes with this product when purchased?
+Can you tell me the contents of the box?
+What items are included in the package?
+
+7. Highly_rated_by_customers
+
+Training phrases
+list of top features rated by customers
+List the top features rated by customers for this product.
+Give me a breakdown of the features with high customer ratings.
+I'd like to know which features stand out to customers.
+Which aspects of this product are highly rated by users?
+Share feedback on the product's standout features.
+Explain the standout features based on customer ratings.
+Which features of this product have the highest customer ratings?
+Show me the most praised features of this item.
+why product is highly recomended by customers
+for what features this product is highly recomended
+what are the highly rated functions of this product
+
+8. colours
+
+Training phrases
+What are the available color selections for this product?
+I'd like to see the different color options for this.
+Tell me about the color range for this item.
+Which colors does this product come in?
+Can you provide details on the color choices available?
+Are there any color variations for this item?
+What hues does this product come in?
+I'm interested in knowing the available shades or colors.
+Can you tell me the available colors for this item?
+What color options are available for this product?
+
+9. about-product
+
+Training phrases
+Can you give me some insights into the technology used in this?
+How does this compare to others in its category?
+I'm interested in learning about the specifications
+Tell me more about this product
+What makes this product unique or different?
+Can you provide a brief overview of this item?
+I'd like to know more details
+What are the main features of this item?
+
+
+10. Default-Fallback-Intent
+
+Training phrases
+
+
+
+
+
+
+
+
+
+
+
