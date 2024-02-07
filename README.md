@@ -4,7 +4,7 @@
 
 This project aims to create a chatbot that assists users in extracting product details from Amazon URLs. By simply pasting the product URL, the chatbot will fetch and display the necessary product information.
 
-I have used deep learning pretrained Question-Answering model called ['deepset/roberta-base-squad2'](https://huggingface.co/deepset/roberta-base-squad2-covid) which is available on hugging face for free
+I have used deep learning pretrained Question-Answering model called ['deepset/roberta-base-squad2'](https://huggingface.co/deepset/roberta-base-squad2-covid) which is available on hugging face for free. For more details refer my [Blog](https://medium.com/@rajputharshal2002/unveiling-the-prototype-of-amazon-sales-assistant-chatbot-%EF%B8%8F-7fe6c1aaeb55)
 
 ## Technologies 
 
@@ -73,6 +73,6 @@ Interact with the chatbot to receive product details which will save your time a
 Enhance user shopping experience
 
 
-For more details reffer my [Blog](https://medium.com/@rajputharshal2002/unveiling-the-prototype-of-amazon-sales-assistant-chatbot-%EF%B8%8F-7fe6c1aaeb55)
+For more details refer my [Blog](https://medium.com/@rajputharshal2002/unveiling-the-prototype-of-amazon-sales-assistant-chatbot-%EF%B8%8F-7fe6c1aaeb55)
 
 
