@@ -73,3 +73,6 @@ Interact with the chatbot to receive product details which will save your time a
 Enhance user shopping experience
 
 
+For more details reffer my [Blog](https://medium.com/@rajputharshal2002/unveiling-the-prototype-of-amazon-sales-assistant-chatbot-%EF%B8%8F-7fe6c1aaeb55)
+
+
